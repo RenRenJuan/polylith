@@ -11,10 +11,13 @@
 
 > MIL and a "polylith" fit some intentions for downstream applications programming 
 > including those for graphical programming as in National Instruments G lang.
-> I would use clj-polylith directly if it were more connected with its tradition 
-> and may do so should a java based element of my current interests call for
-> and one in particular (jitsi) is likely candidate.
+> I would use clj-polylith directly if it were more connected with its tradition,
+> substantial, and less clojure centric. May do so anyway should a java based element of my current interests call for
+> it and one in particular (jitsi) is a likely candidate.
  
+So forked for that purpose, the divergence will be substantial if this engages for the above intened 
+purpose. A later recovery of original MIL sources could affect this and should the upstream package 
+evolve into more of an MIL, the natural thing would be to drop the fork if it were adequate as such.
 
 
 ## 0.0.1
