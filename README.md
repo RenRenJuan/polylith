@@ -5,7 +5,7 @@
 
 > "Polylith" is a pun based meme which has been associated with more than one software system.
 > The original systems were lisp and particularly CLOS based, but this one is clojure and thus java based.
-> For background to this point see the #lisp log fragment referred to in the repo title blurb.
+> For background to this point see the #lisp log fragment referred to in the repo about text.
 
  precis of intent in my dev scope
 
