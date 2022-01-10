@@ -15,9 +15,9 @@
 > substantial, and less clojure centric. May do so anyway should a java based element of my current interests call for
 > it and one in particular (jitsi) is a likely candidate.
  
-So forked for that purpose, the divergence will be substantial if this engages for the above intened 
+So forked for that purpose, the divergence will be substantial if this engages for the above intended 
 purpose. A later recovery of original MIL sources could affect this and should the upstream package 
-evolve into more of an MIL, then will want to drop this fork if it were adequate as such.
+evolve into more of an MIL, then would want to drop this fork and use the upstream, with my adaptations applied external to it.
 
 
 ## 0.0.1
