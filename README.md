@@ -17,7 +17,7 @@
  
 So forked for that purpose, the divergence will be substantial if this engages for the above intened 
 purpose. A later recovery of original MIL sources could affect this and should the upstream package 
-evolve into more of an MIL, the natural thing would be to drop the fork if it were adequate as such.
+evolve into more of an MIL, then will want to drop this fork if it were adequate as such.
 
 
 ## 0.0.1
