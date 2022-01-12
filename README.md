@@ -1,5 +1,5 @@
 # Fork of clj-polylith 
-<span style="font-size: 12px">Divergence from original devloper's pkg:</span>
+<span style="font-size: 12px">Divergence from upstream pkg:</span>
 
  jtengstrand.md has the original developer's readme.
 
